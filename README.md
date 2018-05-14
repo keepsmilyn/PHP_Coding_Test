@@ -8,7 +8,7 @@ http://nadiakerr.com/projects/PHP_Coding_Test/
 
 HTML & CSS
 PHP
-MySQL Database 
+MySQL Database  (note: password to DB has been changed for security)
 
 ## Author
 
