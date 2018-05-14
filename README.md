@@ -7,7 +7,9 @@ http://nadiakerr.com/projects/PHP_Coding_Test/
 ## Languages / Requirements
 
 HTML & CSS
+
 PHP
+
 MySQL Database  (note: password to DB has been changed for security)
 
 ## Author
