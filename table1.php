@@ -27,8 +27,7 @@ th {
 			echo "Failed to connect to MySQL: " . mysqli_connect_error();
 		}else{
 
-			/* LOOP THROUGH DB (sort records by date to group dated data together)
-			GRAB DATE FIRST & SEARCH TERM: */ 	
+			/* LOOP THROUGH DB (sort records by date to group dated data together) */ 	
 			$loop_termNdate = mysqli_query($con, "select * from seorankings ORDER BY date DESC") or die (mysqli_error($con));
 			
 			echo "<table>";
