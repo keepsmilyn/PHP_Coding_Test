@@ -1,8 +1,4 @@
-# PHP_Coding_Test
-
-
-
-# PHP_Coding_Test
+# PHP Coding Test
 
 As per PHP Coding Test excersie provided. A working example can be found to run here: 
 
