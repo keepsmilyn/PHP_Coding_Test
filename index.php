@@ -28,6 +28,8 @@ the range (1-30).</p>
 <p>We have a table of rankings data showing how a particular domain ranks for a set of search
 terms in each of the 3 main engines:</p>
 
+<a href="table1.php">TABLE 1 (click to view).</a>
+
 <p>A value of 0 in the ranking table means the domain ranked outside the top 30.</p>
 
 
